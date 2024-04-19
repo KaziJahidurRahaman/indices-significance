@@ -26,9 +26,9 @@ The classes are-
 
 
 ## 4. Outputs
-### 4.1 The class wise and overall accuracies for SVM, RF and ANN with 2 datasets
+### 4.1 The overall accuracies for SVM, RF and ANN with 2 datasets
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/8e314669-dc1d-440e-9178-202d3ece6788)
+![image](![image](https://github.com/KaziJahidurRahaman/indices-significance/assets/109986838/f7d56e63-7593-4d7a-9356-56463c9c2e45)
 
 
 ### 4.2 Impact of indices on classwise and OA
