@@ -36,9 +36,9 @@ The classes are-
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/d4bf5d78-0076-4d09-9749-f3d44f26341e)
 
 ### 4.3 Confusion Metrices of the algorithms with both datasets
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/bb23aba8-bf5f-427d-b96a-9c53a73334b7)
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/eebb2ae4-2f95-4976-a314-2fd092ae35fe)
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/6dd453e4-be1a-42f0-a5a2-93d23237854f)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Data/Plots/RF%20Confusion%20Matrix.png)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Data/Plots/SVM%20ConfusionMatrix.png)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Data/Plots/ANN%20Confusion%20Matrix.png)
 
 ### 4.4 Impact of the indices on time complexity of the models
 #### 4.4.1 SVM's accuracy reduces with the indices, but computation time decreases significantly
