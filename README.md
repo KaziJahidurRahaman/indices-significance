@@ -18,7 +18,7 @@ The classes are-
 <p>The objectives of this study includes understanding the impact of these indices on LULC classification, producing updated LULC maps. At the end, a new approach (hybrid) combining the outputs from the best models for each of the classes were proposed. This new approach shows the better accuracy then all other models attempted in the study.</p> 
 
 ## 2. Study Area
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/067f5f23-e0ef-4733-9c4d-54e107e341d6)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Maps/study_area_.png)
 
 
 ## 3. General Workflow
