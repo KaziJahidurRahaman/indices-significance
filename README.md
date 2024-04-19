@@ -49,7 +49,9 @@ The classes are-
 
 #### 4.4.3 Learning Curves of ANN shows better ability to generalise when indices added
  
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/6094b551-d49c-4bae-9c24-fc89a05dad0a)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Data/Plots/ANN%20Train%20and%20Val%20Accs.png)
+ 
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Data/Plots/ANN%20Train%20and%20Val%20Loss.png)
 
 ### 4.5 Proposed new approach performance and comaing with previous 2 best models shows better performance
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/b86e7505-be13-4e8c-ba35-4bc91d67573e)
