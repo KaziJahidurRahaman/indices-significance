@@ -57,13 +57,10 @@ The classes are-
 ![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/317fceb8-ac61-42ec-955a-2b75ca542e61)
 
 ### 4.6 Classified LULC Maps
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/746fbe30-f5b7-4db9-9bae-618d6d09b3da)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Maps/classified_SVM.png)
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/3253bf66-b4ed-4dbf-9ad1-36721c8510b2)
 
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/e9280554-45dc-47c9-b48e-840a025b45aa)
-
-![image](https://github.com/KaziJahidurRahaman/IndicesSgnificance/assets/109986838/a53581de-5ec3-4113-9587-7711a4b9375f)
+![image](https://github.com/KaziJahidurRahaman/indices-significance/blob/main/Maps/classified_ANN.png)
 
 
 ## 5. Conclusion
